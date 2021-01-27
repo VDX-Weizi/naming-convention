@@ -14,6 +14,13 @@
 | Delegate name             | PascalCase |    128 | No     | No     | Yes    | Yes          | [A-z]              | No          |
 | Enum type name            | PascalCase |    128 | Yes    | No     | No     | No           | [A-z]              | No          |
 
+#### 0. NameSpace
+
+```csharp
+<Company Name>.<Project Name>.<Feature Name>
+E.g. Virtue.iGene_Pad.Scheduler
+```
+
 #### 1. Do use PascalCasing for class names and method names:
 
 ```csharp
